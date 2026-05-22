@@ -38,20 +38,6 @@
 
 ตัวอย่างการเชื่อมต่ออุปกรณ์ในโปรเจกต์
 
-![Circuit Diagram](./image.png)
-
-## Future Improvements
-
-* เพิ่มการแสดงผลผ่าน Web Dashboard
-* บันทึกข้อมูลลง Cloud Database
-* แจ้งเตือนผ่าน LINE Notify หรือ Telegram
-* ควบคุมอุปกรณ์ผ่าน Mobile Application
-
-## Author
-
-Developed for learning and experimentation in Internet of Things (IoT).
-
-
 <img width="920" height="767" alt="image" src="https://github.com/user-attachments/assets/90ff706d-ebfc-40a1-95d5-31b4d3a3b5fd" />
 
 <img width="1917" height="962" alt="NodeRED_Dashboard" src="https://github.com/user-attachments/assets/c55d580f-2cac-4a64-9ef9-ba7a2d512271" />
@@ -63,3 +49,14 @@ Developed for learning and experimentation in Internet of Things (IoT).
 <img width="870" height="1882" alt="Blynk_Dashboard_mobile" src="https://github.com/user-attachments/assets/6da75bd6-e953-40ff-832c-02b854a01051" />
 
 <img width="870" height="1882" alt="Telegram_Alert" src="https://github.com/user-attachments/assets/2864e62f-df16-4804-b658-a93d2000aa5d" />
+
+## Future Improvements
+
+* เพิ่มการแสดงผลผ่าน Web Dashboard
+* บันทึกข้อมูลลง Cloud Database
+* แจ้งเตือนผ่าน LINE Notify หรือ Telegram
+* ควบคุมอุปกรณ์ผ่าน Mobile Application
+
+## Author
+
+Developed for learning and experimentation in Internet of Things (IoT).
